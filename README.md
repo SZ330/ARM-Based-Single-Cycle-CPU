@@ -12,8 +12,6 @@ The design was developed to study:
 - Register file and memory integration
 - Trade-offs between simplicity and clock performance
 
--- 
-
 ## Project Context & Attribution
 This project was completed as part of: **EE 469 – Computer Architecture I**
 
