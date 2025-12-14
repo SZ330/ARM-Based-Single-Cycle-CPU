@@ -18,3 +18,9 @@ This project was completed as part of: **EE 469 – Computer Architecture I**
 Instructor: **Professor Scott Hauck**, **University of Washington**
 
 This repository is shared for **educational and portfolio purposes only**.
+
+## Academic Integrity Notice
+If you are currently enrolled in EE 469 or a similar course:
+
+**Do not copy or submit this code as your own work.**  
+Doing so may violate integrity policies.
